@@ -8,7 +8,7 @@ Very useful in interview process for Java Software Development Engineer (SDE).
 
 #### Big-O Complexity Chart
 ![Big-O Complexity Chart](https://raw.githubusercontent.com/donbeave/interview/master/big-o-chart.png)
-![Big O Cheat sheet](http://www.bigocheatsheet.com/)
+![Big O Cheat sheet](https://www.redbubble.com/people/immortalloom/works/22929408-official-big-o-cheat-sheet-poster?p=poster&finish=semi_gloss&size=large/)
 
 #### Constant — statement (one line of code)
 
