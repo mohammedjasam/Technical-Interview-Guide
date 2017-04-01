@@ -7,8 +7,7 @@ Very useful in interview process for Java Software Development Engineer (SDE).
 ## Big O Notation
 
 #### Big-O Complexity Chart
-![Big-O Complexity Chart](https://raw.githubusercontent.com/donbeave/interview/master/big-o-chart.png)
-![Big O Cheat sheet](https://ih1.redbubble.net/image.256104184.9408/flat,800x800,070,f.jpg)
+![Sorting](https://he-s3.s3.amazonaws.com/media/uploads/2d5308d.JPG)
 ![Commomn Data Structure Operations](http://www.smashcompany.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-05-at-12.25.18-AM.png)
 
 #### Constant — statement (one line of code)
